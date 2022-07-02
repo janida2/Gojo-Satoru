@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['wa.me/+94772078994']
-global.premium = ['wa.me/+94772078994']
-global.ownernomer = 'wa.me/+94772078994'
+global.owner = ['+94772078994']
+global.premium = ['/+94772078994']
+global.ownernomer = '+94772078994'
 global.ownername = 'Janida[BSM]'
 global.botname = 'BSM BOT'
 global.footer = '©NexusNwInc.'
