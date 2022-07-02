@@ -1,7 +1,7 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
-//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
+//            ʙsᴍ ʙᴏᴛ ʙʏ [ʙsᴍ ᴀᴅᴍɪɴ ᴄʀᴇᴡ] 
+//            ѕ¢яιρт σf ¢нєємѕ вσт
 //
 //════════════════════════════//
 
@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
+global.owner = ['wa.me/+94772078994']
+global.premium = ['wa.me/+94772078994']
+global.ownernomer = 'wa.me/+94772078994'
+global.ownername = 'Janida[BSM]'
+global.botname = 'BSM BOT'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
+global.region = 'Sri Lanka, Gampaha, Mirigama'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.myweb = 'https://www.youtube.com/channel/UCKyV6riI1z8s7XO_xxqDDHw'
+global.packname = 'BSM_BOT'
+global.author = 'JANIDA[BSM]'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
